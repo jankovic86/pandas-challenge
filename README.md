@@ -61,5 +61,8 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
+### Finished Product
 
+* Finished reports have been saved in the HeroesOfPymoli folder.
+* Folder will include jupyter notebook script named HeroesOfPymoli.ipynb as well as Observable_Trends.txt to answer three trends that have been observed using the data.
 
