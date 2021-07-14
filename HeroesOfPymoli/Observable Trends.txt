@@ -1,0 +1,8 @@
+
+
+
+Pandas-Challenge
+
+1. The majority of players of Heroes of Pymoli are males at 84.03%.\
+2. Most players are between the ages of 20-24 for a total count of 258 (44.79%)\
+3. The most popular item and also most profitable item that was purchased is called Final Critic. Purchased 13 times for a total value of $59.99.}
